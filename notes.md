@@ -41,3 +41,11 @@ After attempting a restart, I went with my gut and reinstalled the program, this
 the program is running, but it sure is finding a lot of bad file location, descriptors and the rest.
 
 so this is slow, even for slow. break time I guess, I hope I don't brick my pc by the time I get back or something. 
+
+finished the DL, total wall clock time 33m 16s
+
+next exerise was smooth
+
+final exersie of Wget had problems finding the file again, so I just moved a copy of wget into the folder.
+
+I had another access denied error with the popup banner, it's something to do with copying the file and the filesize of wget going to zero. trying the copy again worked (?)
