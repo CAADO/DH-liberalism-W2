@@ -63,3 +63,7 @@ First problem showed up when my R is not the same as the one in the pictures, bu
 retry in a new session also crashed in the same place, so it wasn't just a missimput
 
 pretty sure I set the path wrong
+
+I did, but the actual crash error casue has been found after some tinkering: the picture was in the wrong location. I put the picture in the same r-stuff folder that I was working in, and the function worked. 
+
+Once I got past this error, the rest of the R section went smoothly. 
