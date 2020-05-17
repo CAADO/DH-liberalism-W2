@@ -49,3 +49,13 @@ next exerise was smooth
 final exersie of Wget had problems finding the file again, so I just moved a copy of wget into the folder.
 
 I had another access denied error with the popup banner, it's something to do with copying the file and the filesize of wget going to zero. trying the copy again worked (?)
+
+SELF TIP: if you get 'can't run' error, check the filesize of the Wget that's trying to run. If it's 0, that's your problem. 
+
+Other then an error becuase I forgot a) save to the right place, b) format my name right, c) save it after fixing it the API stuff went quite well. I'm already somewhat familiar with APIs, so I will go back and do more if I have extra time, but for now I'm moving on. 
+
+oh god more installs end my life, I'm doing this one later I guess.
+
+after a break for sleep and to let R install, I'm back and everything seems to be going smoothly
+
+First problem showed up when my R is not the same as the one in the pictures, but I continued doing exersises anyway, just finding the commands I'm looking for. after giving the three library commands, instruction 9, I got an error that they were built in 3.6.3, but the program seemed fine. After running it (step 10) I got a fatal error. 
