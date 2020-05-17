@@ -22,3 +22,20 @@ Next section: APIs. I... think I know how to do this?
 Yep, it's all working well until... I need ana again. 
 
 Next step involves downloading more things, things being the two R packages. Well, see you in a a couple hours Git, I'm getting a beer or something. 
+
+After a short interlude to have a midnight hamburger,do battle with google books and to yell at a book from the 80s that messed up its citations, we have returned. conda 4.8.2 and python 3.7.6 both running fine
+
+right onto wget. Wget is installed, but for some reason conda isn't finding it in C. I think I know why?
+
+current error: 'wget.exe' is not recognized as an internal or external command,
+operable program or batch file.
+
+So far, I've attempted to troubleshoot through the discord messages other people have left, and I'm at the point where I'm pretty sure that the wget install was messed up
+
+new error: Access is denied. Going to try and run the shell as admin.
+
+after trying some more moving around, I managed to get a 'you can't do that dave' popup I didn't even know windows had.
+
+After attempting a restart, I went with my gut and reinstalled the program, this time with the 64 bit version. After a small amount of brutal failure, I got it working. 
+
+the program is running, but it sure is finding a lot of bad file location, descriptors and the rest.
