@@ -59,3 +59,5 @@ oh god more installs end my life, I'm doing this one later I guess.
 after a break for sleep and to let R install, I'm back and everything seems to be going smoothly
 
 First problem showed up when my R is not the same as the one in the pictures, but I continued doing exersises anyway, just finding the commands I'm looking for. after giving the three library commands, instruction 9, I got an error that they were built in 3.6.3, but the program seemed fine. After running it (step 10) I got a fatal error. 
+
+retry in a new session also crashed in the same place, so it wasn't just a missimput
