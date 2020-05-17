@@ -9,3 +9,7 @@ reading the croudsourcing article: resistance to crowdsorucing particularly for 
 
 The paper was an interesting look at the economics of crowdsorucing, but it does requrie the attention of volunteers. It seems quite clear that large, long term projects have significantly more potential for crowdsourcing due to startup costs. 
 
+writing Github notes with unstable internet is a dangerous game. 
+
+I read the two Bethman articles in order that they are on the instructions: 2018 followed by 2012. This seemed something of a waste, since the 2018 paper already spends time summarising the 2012. 
+
