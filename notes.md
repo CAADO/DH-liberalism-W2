@@ -39,3 +39,5 @@ after trying some more moving around, I managed to get a 'you can't do that dave
 After attempting a restart, I went with my gut and reinstalled the program, this time with the 64 bit version. After a small amount of brutal failure, I got it working. 
 
 the program is running, but it sure is finding a lot of bad file location, descriptors and the rest.
+
+so this is slow, even for slow. break time I guess, I hope I don't brick my pc by the time I get back or something. 
