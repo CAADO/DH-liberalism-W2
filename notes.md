@@ -13,3 +13,12 @@ writing Github notes with unstable internet is a dangerous game.
 
 I read the two Bethman articles in order that they are on the instructions: 2018 followed by 2012. This seemed something of a waste, since the 2018 paper already spends time summarising the 2012. 
 
+download time for ana is almost an hour on the present internet, which is pretty painful. 
+
+I attempted to just move onto the next task but that needs ana as well. 
+
+Next section: APIs. I... think I know how to do this? 
+
+Yep, it's all working well until... I need ana again. 
+
+Next step involves downloading more things, things being the two R packages. Well, see you in a a couple hours Git, I'm getting a beer or something. 
