@@ -68,7 +68,8 @@ I did, but the actual crash error casue has been found after some tinkering: the
 
 Once I got past this error, the rest of the R section went smoothly. 
 
-For the week's bonus, I decided to download a differnt video then was in the description, just because. 
+When uploading files to Git, I decided to just not upload the joural pictures because I'm lazy but they did download.
 
+For the week's bonus, I decided to download a differnt video then was in the description, just because. 
 
 
