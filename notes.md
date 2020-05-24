@@ -70,6 +70,8 @@ Once I got past this error, the rest of the R section went smoothly.
 
 When uploading files to Git, I decided to just not upload the joural pictures because I'm lazy but they did download.
 
+Wait never mind, I figured it out. 
+
 For the week's bonus, I decided to download a differnt video then was in the description, just because. 
 
 
