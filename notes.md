@@ -67,3 +67,8 @@ pretty sure I set the path wrong
 I did, but the actual crash error casue has been found after some tinkering: the picture was in the wrong location. I put the picture in the same r-stuff folder that I was working in, and the function worked. 
 
 Once I got past this error, the rest of the R section went smoothly. 
+
+For the week's bonus, I decided to download a differnt video then was in the description, just because. 
+
+
+
