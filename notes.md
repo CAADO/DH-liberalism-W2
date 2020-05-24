@@ -72,6 +72,8 @@ When uploading files to Git, I decided to just not upload the joural pictures be
 
 Wait never mind, I figured it out. There are a ton of active-history things though...
 
+I'm just going to upload a filelist instead, google told me how.
+
 For the week's bonus, I decided to download a differnt video then was in the description, just because. 
 
 So I probably have to install githup desktop on the computer to use the git command, hun. 
