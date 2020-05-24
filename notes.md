@@ -70,8 +70,10 @@ Once I got past this error, the rest of the R section went smoothly.
 
 When uploading files to Git, I decided to just not upload the joural pictures because I'm lazy but they did download.
 
-Wait never mind, I figured it out. 
+Wait never mind, I figured it out. There are a ton of active-history things though...
 
 For the week's bonus, I decided to download a differnt video then was in the description, just because. 
 
+So I probably have to install githup desktop on the computer to use the git command, hun. 
 
+oh no that's not how that works, well ok then. 
