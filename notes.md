@@ -79,3 +79,5 @@ For the week's bonus, I decided to download a differnt video then was in the des
 So I probably have to install githup desktop on the computer to use the git command, hun. 
 
 oh no that's not how that works, well ok then. 
+
+So I messed up the install of ffmp thing, pretty bad I think. Fortunatly, I found a workaround: run the whole extraction program out of the bin subfolder (after moving there with the CD command) and just drop the video files into that folder. I also had to make source and parts folders within Bin, because those did not get created on install, but it functions anyway. 
