@@ -81,3 +81,14 @@ So I probably have to install githup desktop on the computer to use the git comm
 oh no that's not how that works, well ok then. 
 
 So I messed up the install of ffmp thing, pretty bad I think. Fortunatly, I found a workaround: run the whole extraction program out of the bin subfolder (after moving there with the CD command) and just drop the video files into that folder. I also had to make source and parts folders within Bin, because those did not get created on install, but it functions anyway. 
+
+So I'm not sure why, but some parts of my computer will NOT talk to one another. I can't find folders when I do searches from start, and I have to put pretty much everything in the same folder for it to run. 
+
+I got text '= r.recognize_google_cloud(audio, credentials_json=GOOGLE_CLOUD_SPEECH_CREDENTIALS)
+  File "C:\Users\Sleep\anaconda3\lib\site-packages\speech_recognition\__init__.py", line 937, in recognize_google_cloud
+    if "results" not in response or len(response["results"]) == 0: raise UnknownValueError()
+speech_recognition.UnknownValueError' 
+
+the process is hanging on the last file, so I'm just going to remove it, might be too much dead air.
+
+That worked. 
